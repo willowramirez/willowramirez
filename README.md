@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 
 #### Github Statistics
 
-<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a><a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
+<div style="height: 137.3px;" >
+  <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
+  <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
+</div>
