@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+
 [![Willow Ramirez's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowramirez)](https://github.com/willowramirez/github-readme-stats?theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<img style="width: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez)](https://github.com/willowramirez/github-readme-stats?theme=radical" />
+<img style="width: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
