@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
-[![Willow Ramirez's GitHub stats](https://github-readme-stats.vercel.app/api?username=willowramirez)](https://github.com/willowramirez/github-readme-stats?theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+#### Github Statistics
 
-<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
-<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
+<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a><a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
