@@ -29,3 +29,6 @@ Here are some ideas to get you started:
   <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
   <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
 </div>
+
+<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
+<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
