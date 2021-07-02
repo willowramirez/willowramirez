@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<img style="width: 137.3px;" src="https://github.com/willowramirez/github-readme-stats?theme=radical" />
-<img style="width: 137.3px;" src="https://github.com/willowramirez/github-readme-stats" />
+<img style="width: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" />
+<img style="width: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" />
