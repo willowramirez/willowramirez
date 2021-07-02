@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 #### Github Statistics
 
-<div style="height: 137.3px;" >
-  <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
-  <a href="https://willowramirez.github.io/"><img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
-</div>
+<img style="height: 137px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" />
 
-<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" /></a>
-<a href="https://willowramirez.github.io/"><img style="height: 137.3px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" /></a>
+<img style="height: 137px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willowramirez&theme=radical" />
+
