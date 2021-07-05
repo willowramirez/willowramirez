@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Languages
+### Languages
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 
 
-#### Github Statistics
+### Github Statistics
 
 <img style="height: 137px;" src="https://github-readme-stats.vercel.app/api?username=willowramirez&theme=radical" />
 
